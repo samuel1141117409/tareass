@@ -1,0 +1,7 @@
+print("hola mundo")
+print("a cuervo se le comieron la carne")
+print(4)
+print(4+3)
+print("4+3")
+print('¿cuanto gana un ingeniero?')
+print(6.4 + 7.6)
